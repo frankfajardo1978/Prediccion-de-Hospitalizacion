@@ -54,3 +54,5 @@ Este proyecto está bajo la licencia MIT. Puedes utilizarlo y modificarlo librem
 ---
 📌 *¡Cualquier feedback o mejora es bienvenida!* 🙌
 
+## Aui puedes visualizar el codigo del proyecto  hosplital.ipynb
+
