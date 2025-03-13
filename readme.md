@@ -54,5 +54,5 @@ Este proyecto está bajo la licencia MIT. Puedes utilizarlo y modificarlo librem
 ---
 📌 *¡Cualquier feedback o mejora es bienvenida!* 🙌
 
-## Aui puedes visualizar el codigo del proyecto  hosplital.ipynb
+## Aui puedes visualizar el codigo del proyecto [ hosplital.ipynb](https://github.com/frankfajardo1978/Hospitalizacion/blob/main/hosplital.ipynb)
 
