@@ -1,7 +1,7 @@
 # 📌 Predicción de Hospitalización
 
 ## 📖 Descripción
-Este proyecto utiliza técnicas de Ciencia de Datos y Machine Learning para predecir si un paciente debe ser hospitalizado o no, basándose en distintas características clínicas y demográficas.
+Este proyecto utiliza técnicas de Ciencia de Datos y Machine Learning para predecir si un paciente debe ser hospitalizado o no, basándose en distintas características clínicas y demográficas, se utiliza el abrol de desicion y vecinas mas cercanos.
 
 ## 📂 Estructura del Proyecto
 - **data/** → Contiene los datasets utilizados para entrenar y evaluar el modelo.
